@@ -1,4 +1,4 @@
-# Data Structures Final Project: Wikipedia Network Analysis Tool
+# Data Structures Final Project: Wikipedia Network Analysis
 
 ## Addendum:
 This project has been slightly modified from the original; I have updated the formatting of this readme, renamed a few files, and made other small changes.  
