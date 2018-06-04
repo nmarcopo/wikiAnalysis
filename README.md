@@ -1,5 +1,5 @@
 # Data Structures Final Project: Wikipedia Network Analysis
-
+Originally Submitted May 8, 2018 to Professor [Shreya Kumar](https://www3.nd.edu/~skumar5/).  
 ## Addendum:
 This project has been slightly modified from the original; I have updated the formatting of this readme, renamed a few files, and made other small changes.  
   
